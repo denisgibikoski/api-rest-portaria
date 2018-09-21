@@ -1,0 +1,7 @@
+com\qge\portaria\api\model\Pessoas.class
+com\qge\portaria\api\repository\impl\ControleRepositoryImpl.class
+com\qge\portaria\api\resources\ControleController.class
+com\qge\portaria\api\repository\ControleRepository.class
+com\qge\portaria\api\PortariaRestApplication.class
+com\qge\portaria\api\model\Controle.class
+com\qge\portaria\api\service\ControleService.class
